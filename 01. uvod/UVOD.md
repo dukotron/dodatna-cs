@@ -3,7 +3,9 @@
 **Compiler** (programski jezik -> strojni kod), interpreter, IDE
 
 Poznati compileri za C++: GCC, Visual C++, …
+
 Poznati IDE: DevC++, CodeBlocks, ...
+
 Alternativa: online compiler - http://www.tutorialspoint.com/codingground.htm
 
 ```cpp
@@ -61,6 +63,7 @@ Možemo definirati varijablu int a = 4; Tada se služimo sa “a” i nju zaprav
 ###Operatori
 Radimo neke operacije nad varijablama ili konstantama
 Aritmetički, relativni, bitwise, logički, inkrement/dekrement, trojni
+
 | Vrsta              | Operatori |
 | ------------- |:-------------:|
 | aritmetički          | \+ - * / % |
